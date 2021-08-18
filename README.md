@@ -37,7 +37,6 @@ For Pincode: http://www.postalpincode.in/Api-Details
 ![](https://user-images.githubusercontent.com/57591622/129959951-b0d3f897-c12e-40b0-a491-f4e8c4589cdb.jpeg)
 <center>Entering OTP</center><br/>
 
-![](https://user-images.githubusercontent.com/57591622/129959966-947f2364-40f6-4c2f-861e-09ac2554abe1.jpeg)
 <center>Details Fill Up</center><br/>
 
 ![](https://user-images.githubusercontent.com/57591622/129960004-832ba1a7-b408-40b6-be1d-43fb4a6aa3b5.jpeg)
