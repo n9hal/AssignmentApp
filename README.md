@@ -22,7 +22,8 @@ implementation 'androidx.browser:browser:1.3.0'
 ```
 
 <b>API</b>
-For weather : https://openweathermap.org/api
+For weather : https://openweathermap.org/api<br/>
+
 For Pincode: http://www.postalpincode.in/Api-Details
 
 <b>Screenshots</b>
