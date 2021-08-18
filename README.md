@@ -26,7 +26,8 @@ implementation 'androidx.browser:browser:1.3.0'
 For weather : https://openweathermap.org/api<br/>
 For Pincode: http://www.postalpincode.in/Api-Details
 
-<b>Screenshots</b>
+<b>Screenshots</b><br/>
+
 ![](https://user-images.githubusercontent.com/57591622/129959921-086c9c7d-09e3-4481-981e-6a61c9b94961.jpg)
 <center>Login</center><br/>
 
