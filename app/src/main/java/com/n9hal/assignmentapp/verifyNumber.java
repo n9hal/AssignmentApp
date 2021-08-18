@@ -69,6 +69,7 @@ public class verifyNumber extends AppCompatActivity {
                         btnVerify.setText("Verifying...");
                         PhoneAuthCredential phoneAuthCredential = PhoneAuthProvider.getCredential(OTP,enteredOTP);
                         signIn(phoneAuthCredential);
+                        open_details_Form();
                     }
                 }
             }
